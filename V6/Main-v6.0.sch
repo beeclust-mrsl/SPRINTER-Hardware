@@ -36737,7 +36737,7 @@ for ESP8266</text>
 <busses>
 </busses>
 <nets>
-<net name="GND_ABC" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
 <wire x1="-10.16" y1="170.18" x2="0" y2="170.18" width="0.1524" layer="91"/>
